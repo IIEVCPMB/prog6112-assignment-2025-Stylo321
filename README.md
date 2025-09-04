@@ -6,5 +6,6 @@ JUnit for Section 1:
 JUnit for section 2:
 <img width="1920" height="1200" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/d4873964-63d5-47b8-8f32-dcfc742226c7" />
 
-Giithub Link:
+Giithub Link:https://github.com/IIEVCPMB/prog6112-assignment-2025-Stylo321
+
 Youtube Link: https://www.youtube.com/watch?v=uwp1jP0uwzM
